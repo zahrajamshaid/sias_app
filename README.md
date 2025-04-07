@@ -76,5 +76,5 @@ This application is built with production-level Flutter architecture and scalabl
 
 ---
 
-## 🗂 Project Structure (Simplified)
+
 
